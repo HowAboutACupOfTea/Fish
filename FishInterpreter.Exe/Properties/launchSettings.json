@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "FizzBuzz": {
+      "commandName": "Project",
+      "commandLineArgs": "\"0voa                            ~/?=0:\\\\\"\r\n\" voa            oooo'Buzz'~<     /\"\r\n\" >1+:aa*1+=?;::5%:{3%:@*?\\?/'zziF'oooo/\"\r\n\" ^oa                 n:~~/\""
+    },
+    "Fibonacci": {
+      "commandName": "Project",
+      "commandLineArgs": "\"10::n' 'o&+&$10.\""
+    },
+    "Brainfuck": {
+      "commandName": "Project",
+      "commandLineArgs": "\"v\"\r\n\"1\"\r\n\"0\"\r\n\"\"\r\n\"           >$    >$                 \\\"\r\n\">:@$:@i:0(?^$:2=?^$:3b*-0=?\\v/      >:&$:1=?v>$@p&0(?v$1+\"\r\n\"\\                  02]p00~~<> :'+'=?^\\      $$       >1-0p\"\r\n\"\\01-\\                       /^?='>': <      d+\"\r\n\"v   <}            v?= \\     > :'<'=?^\\      %e\"\r\n\"v}]p$p4r}:r:$4[2@:/f1+/     /^?='-': <      \\/\"\r\n\">{1+:00g=?\\:1g:e-?^~:}0a.   > :'['=?^\\\"\r\n\"/     -1-:/                 /^?=']': <\"\r\n\">1+:00g=?;:1g0$.            > :'.'=?^\\\"\r\n\"^             ~<   $\\.51$~~ ~^?=',': <\"\r\n\" '['~ 20g:3g  ?^>$4g^\"\r\n\"\"\r\n\" ']'~ 20g:3g0=?^^\"\r\n\"^                 <     \\\"\r\n\" '+'~ 20g:3g1+3$@p^\"\r\n\" ','~ 30g:1+30p2g  20g3p/\"\r\n\" '-'~ 20g:3g1-3$@p^\"\r\n\" '.'~ 20g3go      /\"\r\n\" '<'~ 20g1-20p\\\"\r\n\"^             <\"\r\n\" '>'~ 20g1+20p/\""
+    }
+  }
+}
